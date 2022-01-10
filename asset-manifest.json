@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://ritvikmathur1999.github.io/csb-zhzt0/static/css/main.1b469027.chunk.css",
-    "main.js": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/main.dfece5e4.chunk.js",
-    "main.js.map": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/main.dfece5e4.chunk.js.map",
+    "main.js": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/main.d0e5f812.chunk.js",
+    "main.js.map": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/main.d0e5f812.chunk.js.map",
     "runtime-main.js": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/runtime-main.9ec156bc.js",
     "runtime-main.js.map": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/runtime-main.9ec156bc.js.map",
-    "static/js/2.86b922d7.chunk.js": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/2.86b922d7.chunk.js",
-    "static/js/2.86b922d7.chunk.js.map": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/2.86b922d7.chunk.js.map",
+    "static/js/2.30cb9ed6.chunk.js": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/2.30cb9ed6.chunk.js",
+    "static/js/2.30cb9ed6.chunk.js.map": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/2.30cb9ed6.chunk.js.map",
     "index.html": "https://ritvikmathur1999.github.io/csb-zhzt0/index.html",
     "static/css/main.1b469027.chunk.css.map": "https://ritvikmathur1999.github.io/csb-zhzt0/static/css/main.1b469027.chunk.css.map",
-    "static/js/2.86b922d7.chunk.js.LICENSE.txt": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/2.86b922d7.chunk.js.LICENSE.txt"
+    "static/js/2.30cb9ed6.chunk.js.LICENSE.txt": "https://ritvikmathur1999.github.io/csb-zhzt0/static/js/2.30cb9ed6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9ec156bc.js",
-    "static/js/2.86b922d7.chunk.js",
+    "static/js/2.30cb9ed6.chunk.js",
     "static/css/main.1b469027.chunk.css",
-    "static/js/main.dfece5e4.chunk.js"
+    "static/js/main.d0e5f812.chunk.js"
   ]
 }
